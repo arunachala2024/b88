@@ -1,1 +1,2 @@
-Test project
+Project modified
+new line being added
